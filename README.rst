@@ -3,7 +3,7 @@ The Model Programmer Pythonical
 
 Words by Stephen Hawkes and Nicholas H.Tollervey
 
-The Model Programmer Pythonical by Stephen Hawkes and Nicholas Tollervey is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License<http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB>`_.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 To the tune of "The Major General's Song" from Gilbert and Sullivan's operetta "The Pirates of Penzance"::
 

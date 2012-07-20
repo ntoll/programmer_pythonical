@@ -33,7 +33,7 @@ melody = \relative c'' {
 
 solo = \lyricmode {
     I am the ve -- ry mod -- el of a pro -- gram -- er Py -- thon -- ic -- al,
-    I don't use C or Perl or P. H. P. (they're quite mor -- on -- ic -- al),
+    I don't use C or Perl or P. H. P. "(they're" quite mor -- on -- ic -- al),
     I much pre -- fer the scope of code de -- ter -- mined in -- den -- ta -- tion -- al,
     In a lan -- guage that has ob -- jects and is al -- so ve -- ry func -- tion -- al;
     I'm ve -- ry well ac -- quaint -- ed, too, with matt -- ers that are script -- a -- ble,

@@ -290,9 +290,9 @@ lower = \relative c {
     \key ees \major
     \time 4/4
 
-    bes4 bes bes bes
+    bes'4 bes bes bes
     bes bes bes bes
-    ees <ees' bes g> ees, <ees' bes g>
+    ees, <ees' bes g> ees, <ees' bes g>
     ees, <ees' bes g> ees, <ees' bes g>
     ees, <d' bes aes> ees, <d' bes aes>
     ees, <d' bes aes> ees, <d' bes aes>

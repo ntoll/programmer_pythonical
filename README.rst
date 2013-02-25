@@ -23,13 +23,13 @@ To the tune of "The Major General's Song" from Gilbert and Sullivan's operetta "
     Namespaces are one honking great idea, lets do more of those! [x3]
 
     [Solo]
-    I'm good at yealding stuff that makes my function generatable,
+    I'm good at yielding stuff that makes my function generatable,
     I create classes that are nice and easily inher'table,
-    But still in matters programable, functional and logical,
+    But still in matters programmable, functional and logical,
     I am the very model of a programmer Pythonical.
 
     [Chorus]
-    But still in matters programable, functional and logical,
+    But still in matters programmable, functional and logical,
     [S]he is the very model of a programmer Pythonical.
 
     Verse 2
@@ -48,13 +48,13 @@ To the tune of "The Major General's Song" from Gilbert and Sullivan's operetta "
     And *while* controls the flow, creating code blocks often circular. [x3]
 
     [Solo]
-    With distutils it is a breeze to make my code intstallable,
+    With distutils it is a breeze to make my code installable,
     Despite the fact that Py P. I. is often not contactable,
-    But still in matters programable, functional and logical,
+    But still in matters programmable, functional and logical,
     I am the very model of a programmer Pythonical.
 
     [Chorus]
-    But still in matters programable, functional and logical,
+    But still in matters programmable, functional and logical,
     [S]he is the very model of a programmer Pythonical.
 
 Lilypond source files to generate a PDF of the musical score and associated midi file can be found in the ``src`` directory.

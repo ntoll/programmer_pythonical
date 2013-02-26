@@ -71,7 +71,7 @@ melody = \relative c'' {
 }
 
 solo = \lyricmode {
-    I am the ve -- ry mod -- el of a pro -- gram -- er Py -- thon -- ic -- al,
+    I am the ve -- ry mod -- el of a pro -- gram -- mer Py -- thon -- ic -- al,
     I don't use C or Perl or P. H. P. "(they're" quite mor -- on -- ic -- al),
     I much pre -- fer the scope of code de -- ter -- mined in -- den -- ta -- tion -- al,
     In a lan -- guage that has ob -- jects and is al -- so ve -- ry func -- tion -- al;
@@ -79,9 +79,9 @@ solo = \lyricmode {
     I un -- der -- stand the Zen of Py -- thon makes my code main -- tain -- a -- ble,
     With -- out the tests based on the specs it's hard to write some code that flows,
     Name -- spac -- es are one honk -- ing great i -- de -- a, lets do more of those!
-    I'm good at yeald -- ing stuff that makes my func -- tion gen -- er -- at -- ab -- le,
+    I'm good at yield -- ing stuff that makes my func -- tion gen -- er -- at -- ab -- le,
     I cre -- ate class -- es that are nice and eas -- i -- ly in -- her't -- ab -- le,
-    But still in matt -- ers pro -- gram -- a -- ble, func -- tion -- al and log -- i -- cal,
+    But still in matt -- ers pro -- gramm -- a -- ble, func -- tion -- al and log -- i -- cal,
     I am the ve -- ry mod -- el of a pro -- gram -- mer Py -- thon -- ic -- al.
     Use "\"print\"" to out -- put da -- ta that is char -- ac -- ter or num -- er -- al,
     And "\"if\"" e -- val -- u -- ates the ob -- jects bool -- e -- an and log -- i -- cal,
@@ -93,7 +93,7 @@ solo = \lyricmode {
     And "\"while\"" con -- trols the flow, cre -- a -- ting code blocks of -- ten circ -- u -- lar.
     With dist -- u -- tils it is a breeze to make my code in -- stall -- a -- ble,
     Des -- pite the fact that Py P. I. is of -- ten not con -- tact -- a -- ble,
-    But still in matt -- ers pro -- gram -- a -- ble, func -- tion -- al and log -- i -- cal,
+    But still in matt -- ers pro -- gramm -- a -- ble, func -- tion -- al and log -- i -- cal,
     I am the ve -- ry mod -- el of a pro -- gram -- mer Py -- thon -- i -- cal.
 
 }
@@ -174,12 +174,12 @@ chorusLyrics = \lyricmode {
     Name -- spac -- es are one honk -- ing great i -- de -- a, lets do more of those!
     Name -- spac -- es are one honk -- ing great i -- de -- a, lets do more of those!
     Name -- spac -- es are one honk -- ing great i -- de -- a, lets do more and more of those!
-    But still in matt -- ers pro -- gram -- a -- ble, func -- tion -- al and log -- i -- cal,
+    But still in matt -- ers pro -- gramm -- a -- ble, func -- tion -- al and log -- i -- cal,
     "[S]he" is the ve -- ry mod -- el of a pro -- gram -- mer Py -- thon -- ic -- al.
     And "\"while\"" con -- trols the flow, cre -- a -- ting code blocks of -- ten circ -- u -- lar.
     And "\"while\"" con -- trols the flow, cre -- a -- ting code blocks of -- ten circ -- u -- lar.
     And "\"while\"" con -- trols the flow, cre -- a -- ting code blocks of -- ten circ -- u -- circ -- u -- lar.
-    But still in matt -- ers pro -- gram -- a -- ble, func -- tion -- al and log -- i -- cal,
+    But still in matt -- ers pro -- gramm -- a -- ble, func -- tion -- al and log -- i -- cal,
     "[S]he" is the ve -- ry mod -- el of a pro -- gram -- mer Py -- thon -- ic -- al.
 }
 
